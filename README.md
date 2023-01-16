@@ -13,7 +13,7 @@ Alien Escape Spaceship n°58008 est un jeu qui mélange visuel et textuel, les d
 
 ## Pour lancer le jeu * : 
 - Installer Arcade : pip3 install arcade 
-- Lancer run.py **
+- Lancer run.py depuis votre terminal**
 
 ## Features : 
 - Systeme d'xp
@@ -29,7 +29,7 @@ Alien Escape Spaceship n°58008 est un jeu qui mélange visuel et textuel, les d
 - Changement fluide entre les maps 
 - Interaction sur la map pour activer des éléments du décor
 - Musique de fond + sons lors d'interactions 
-- Touche de Sprinct 
+- Touche de Sprint 
 - Animation du personnage 
 
 ## Contributeurs : 
