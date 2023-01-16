@@ -1,0 +1,18 @@
+v0.5. - Published 06.12.2021
+- Changed layout of the tileset to match the other ones from my store. Texture of the tilesets can be easily changed while IDs of the tiles remain the same.
+- Added upscaled version of the tileset of 48x48 and 64x64
+
+v0.4 - Published 26.11.2021
+Correction
+
+v0.3 - Published 25.11.2021
+Added new wall connections.
+
+
+v0.2- Published 03.02.2021
+Added pipes in all directions
+Slightly changed left-facing walls
+
+
+v0.1. - Published 13.08.2019
+Initial publish of the base sci-fi tileset

@@ -1,0 +1,37 @@
+images:
+
+01-08 -boxes
+09-14 - barrels
+17-24,33, 34, 37, 38, - liquid tanks
+41-44 - white keyboards
+45- 48 - lab equipments
+49- 52 - dark keyboards
+53-56, 63, 64 - lab equipments (vertical)
+57-59 - white computers (vertical, left)
+60-62 - dark computers (vertical, left)
+65-71- white table
+73-79 - dark table
+81-85 - blue generator
+86-90 - orange generator
+91-93 - white computers (vertical, right)
+95-97 - dark computers (vertical, right)
+99-100 - floor tiles
+101-102 - walls
+103-118 - blood stains
+119-121 - explosion stains
+122-124 - damages 
+125-126 - explosion stains
+127-128 - damages on wall
+129-133 - grey debris
+134-135 - metal debris
+136, 142-148- electronic debris
+137-141 - white debris
+
+images02:
+
+01-08 - cabinets
+09-12 - white computer01 (animation)
+13-16 - white computer02 (animation)
+17-20 - dark computer01 (animation)
+21-24 - dark computer02 (animation)
+25-30 - lab equipments
