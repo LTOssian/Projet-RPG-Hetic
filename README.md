@@ -9,7 +9,7 @@ Alien Escape Spaceship n°58008 est un jeu qui mélange visuel et textuel, les d
 
 ## Prérequis : 
 - Python 3.11 (https://www.python.org/downloads/)
-- Python Arcade 2.6.17 (https://api.arcade.academy/en/latest/install/index.html) 
+- Python Arcade 2.6.17  (https://api.arcade.academy/en/latest/install/index.html) 
 
 ## Pour lancer le jeu * : 
 - Installer Arcade : pip3 install arcade 
