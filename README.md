@@ -1,4 +1,4 @@
-# README
+# RPG SPACE OPERA (20/20)
 
 Synopsis : Lors d'une patrouille interstellaire, vous recevez un message de détresse d'un autre vaisseau. Vous décidez de vous y rendre pour examiner la situation abord. En arrivant, vous découvrez un lieu vide et dans un état anormal. Vous commencez à prospecter à la recherche d'un signe de vie mais vous allez vite être confronté à d'étranges habitants...
 
